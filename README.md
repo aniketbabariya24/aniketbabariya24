@@ -33,7 +33,7 @@ product-based company.
   <p align="">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniketbabariya24&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D)]
-      [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aniketbabariya24&theme=neon-dark)](https://git.io/streak-stats)
+    
   <br />
   <br />
   
